@@ -1,5 +1,5 @@
-Integration test between nodeJS and PHP
+Integration test between nodeJS and PHP for realtime private chat
 
-This is just a simple chat application, where all database and pages are managed by PHP. NodeJS is used for realtime one to one chat
+This is just a simple chat application, where all pages are managed by PHP. NodeJS is used for realtime one to one chat
 
 This uses PHP and nodeJS for realtime one to one chat

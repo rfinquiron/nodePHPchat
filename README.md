@@ -1,3 +1,5 @@
+Simple Chat application using PHP and node.js and socket.io
+
 Integration test between nodeJS and PHP for realtime private chat
 
 This is just a simple chat application, where all pages are managed by PHP. NodeJS is used for realtime one to one chat

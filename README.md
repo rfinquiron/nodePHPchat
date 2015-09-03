@@ -4,4 +4,4 @@ This is just a simple chat application, where all pages are managed by PHP. Node
 
 This uses PHP and nodeJS for realtime one to one chat
 
-Forked from : https://github.com/jdutheil/nodePHP to get private chat functionality
+Forked from : https://github.com/jdutheil/nodePHP and updated to get private chat functionality
